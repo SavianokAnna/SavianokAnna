@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Savianok Anna
 - 👀 I’m interested in game development
-- 🌱 I’m currently studying in college and working on my pet project in Unity
+- 🌱 I’m currently studying in college for CS major and working on my pet project in Unity
 - 💞️ I’m looking to collaborate on unique and original projects
 - 📫 You can reach me here or by email Savianok.anna@gmail.com
 - 😄 Pronouns: She/her
