@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Savianok Anna
-- 👀 I’m interested in developing games
-- 🌱 I’m currently learning in college and working on my pet project with Unity
-- 💞️ I’m looking to collaborate on different original projects
-- 📫 How to reach me here or with my email Savianok.anna@gmail.com
+- 👀 I’m interested in game development
+- 🌱 I’m currently studying in college and working on my pet project in Unity
+- 💞️ I’m looking to collaborate on unique and original projects
+- 📫 How to reach me here or by email Savianok.anna@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I can speek 3 languages: English, Russian, Belarusian
+- ⚡ Fun fact: I can speak 3 languages - English, Russian, Belarusian
