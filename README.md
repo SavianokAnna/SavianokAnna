@@ -2,6 +2,6 @@
 - 👀 I’m interested in game development
 - 🌱 I’m currently studying in college and working on my pet project in Unity
 - 💞️ I’m looking to collaborate on unique and original projects
-- 📫 How to reach me here or by email Savianok.anna@gmail.com
+- 📫 You can reach me here or by email Savianok.anna@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I can speak 3 languages - English, Russian, Belarusian
